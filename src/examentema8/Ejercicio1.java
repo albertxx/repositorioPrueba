@@ -15,7 +15,7 @@ public class Ejercicio1 {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        
+        String patata;
         String javalin = "Javalin, javalon";
         String javalen= "javalen, len, len";
         String frase;
